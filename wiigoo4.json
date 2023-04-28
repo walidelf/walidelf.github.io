@@ -1,0 +1,274 @@
+{ "ADS":
+    {
+
+      "text_1":"Welcome To Toca Avatar HD Wallpapers",
+      "text_2":"Discover Awesome Wallpapers",
+      "text_3":"Do You Love Boka Toka Life?",
+        
+		
+        "show_native_timer":false,
+        "timer":3,
+        
+		
+      "banner_type_1":"facebook",
+      "inter_type_1":"facebook",
+      "inter_or_reward_1":"inter",
+      "native_type_1":"facebook",
+      "reward_type_1":"facebook",
+      "native_or_mrec_1":"native",
+
+      "banner_type_2":"facebook",
+      "inter_type_2":"facebook",
+      "inter_or_reward_2":"inter",
+      "native_type_2":"facebook",
+      "reward_type_2":"facebook",
+      "native_or_mrec_2":"native",
+
+      "banner_type_3":"facebook",
+      "inter_type_3":"facebook",
+      "inter_or_reward_3":"inter",
+      "native_type_3":"facebook",
+      "reward_type_3":"facebook",
+      "native_or_mrec_3":"native",
+
+      "banner_type_4":"facebook",
+      "inter_type_4":"facebook",
+      "inter_or_reward_4":"inter",
+      "native_type_4":"facebook",
+      "reward_type_4":"facebook",
+      "native_or_mrec_4":"native",
+
+      "banner_type_5":"facebook",
+      "inter_type_5":"facebook",
+      "inter_or_reward_5":"inter",
+      "native_type_5":"facebook",
+      "reward_type_5":"facebook",
+      "native_or_mrec_5":"native",
+
+      "banner_type_6":"facebook",
+      "inter_type_6":"facebook",
+      "inter_or_reward_6":"inter",
+      "native_type_6":"facebook",
+      "reward_type_6":"facebook",
+      "native_or_mrec_6":"native",
+
+      "ironsource_id":"ca-app-pub56099942",
+      "unityId":"ca-app-pub56099942",
+
+
+      
+      "cpa_image":"R-M-DEMO-300x50",
+      "cpa_text":"R-M-DEMO-interstitial",
+      "cpa_title":"R-M-DEMO-native-i",
+      "cpa_url":"R-M-DEMO-300x50",
+
+
+      "banner_id_1":"602017818631797_602018665298379",
+      "interstitial_id_1":"602017818631797_602018758631703",
+      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_1":"602017818631797_602018841965028",
+    
+
+      "banner_id_2":"602017818631797_602018715298374",
+      "interstitial_id_2":"602017818631797_602018798631699",
+      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_2":"602017818631797_602018945298351",
+    
+	
+      "banner_id_3":"602017818631797_602018665298379",
+      "interstitial_id_3":"602017818631797_602018758631703",
+      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_3":"602017818631797_602018841965028",
+    
+	
+      "banner_id_4":"602017818631797_602018715298374",
+      "interstitial_id_4":"602017818631797_602018798631699",
+      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_4":"602017818631797_602018945298351",
+    
+	
+      "banner_id_5":"602017818631797_602018665298379",
+      "interstitial_id_5":"602017818631797_602018758631703",
+      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_5":"602017818631797_602018841965028",
+        
+        
+      "banner_id_6":"602017818631797_602018715298374",
+      "interstitial_id_6":"602017818631797_602018798631699",
+      "reward_id_6":"ca-app-pub-3940256099942544/5354046379",
+      "mrec_id_6":"ca-app-pub-3940256099942544/2247696110",
+      "native_id_6":"602017818631797_602018945298351"
+    
+    },
+	
+	
+  "collections_names": [
+      {
+        "name": "Toca Avatar IMG",
+        "imageUrl": "https://i.ibb.co/52c8210/01.jpg"
+      },
+      {
+        "name": "Boca Toca IMG",
+        "imageUrl": "https://i.ibb.co/qsdfdkY/02.jpg"
+      },
+      {
+        "name": "Avatar IMG 1",
+        "imageUrl": "https://i.ibb.co/BnQXD1p/3.jpg"
+      },
+      {
+        "name": "Avatar IMG 2",
+        "imageUrl": "https://i.ibb.co/YXFf2Fx/4.jpg"
+      },
+      {
+        "name": "Boca Life Avatar IMG",
+        "imageUrl": "https://i.ibb.co/vBVn5jt/5.jpg"
+      }
+    ],
+	
+	
+	
+    "Toca Avatar IMG": [
+    {
+       "Wallpaper":"https://i.ibb.co/kXncM9H/1.jpg",
+       "Wallpaper2":"https://i.ibb.co/0Jx9XpX/2.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/wNsDDWX/3.jpg",
+       "Wallpaper2": "https://i.ibb.co/sqcTJby/4.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/wBnH5vx/5.jpg",
+       "Wallpaper2":"https://i.ibb.co/ZJ7N5bp/6.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/z71jDRj/7.jpg",
+       "Wallpaper2":"https://i.ibb.co/kJVfnkk/8.jpg"
+
+  }
+],
+
+    "Boca Toca IMG": [
+    {
+       "Wallpaper":"https://i.ibb.co/DrtWhnZ/1.jpg",
+       "Wallpaper2":"https://i.ibb.co/PxJ4gzX/2.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/6nzTLs1/3.jpg",
+       "Wallpaper2": "https://i.ibb.co/sH0MMMR/4.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/xj6ShtG/5.jpg",
+       "Wallpaper2":"https://i.ibb.co/nzDSx6N/6.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/Wc5Tv1S/7.jpg",
+       "Wallpaper2":"https://i.ibb.co/XzY04qn/8.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/sV9vsn8/9.jpg",
+       "Wallpaper2":"https://i.ibb.co/DfPjbKq/10.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/p2XTrvp/11.jpg",
+       "Wallpaper2":"https://i.ibb.co/dk7Rwfd/12.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/2PNvWC2/13.jpg",
+       "Wallpaper2":"https://i.ibb.co/HhRpjXY/14.jpg"
+
+  }
+],
+
+    "Avatar IMG 1": [
+    {
+       "Wallpaper":"https://i.ibb.co/sHHMt79/1.jpg",
+       "Wallpaper2":"https://i.ibb.co/vwjGxtB/2.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/HBmQ6Gk/3.jpg",
+       "Wallpaper2": "https://i.ibb.co/K09j4wJ/4.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/JqGc2fD/5.jpg",
+       "Wallpaper2":"https://i.ibb.co/pWpFF9K/6.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/gyDgDFL/7.jpg",
+       "Wallpaper2":"https://i.ibb.co/kMsD50S/8.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/PcsmXJS/9.jpg",
+       "Wallpaper2":"https://i.ibb.co/Lztc45F/10.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/fHYmrLS/11.jpg",
+       "Wallpaper2":"https://i.ibb.co/6ynxzwc/12.jpg"
+
+  }
+],
+
+    "Avatar IMG 2": [
+    {
+       "Wallpaper":"https://i.ibb.co/4TnLLfZ/13.jpg",
+       "Wallpaper2":"https://i.ibb.co/sQv1hPQ/14.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/4Jwg6pV/15.jpg",
+       "Wallpaper2": "https://i.ibb.co/z2H8GhK/16.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/fHYmrLS/11.jpg",
+       "Wallpaper2":"https://i.ibb.co/Lztc45F/10.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/pWpFF9K/6.jpg",
+       "Wallpaper2":"https://i.ibb.co/PcsmXJS/9.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/gyDgDFL/7.jpg",
+       "Wallpaper2":"https://i.ibb.co/JqGc2fD/5.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/K09j4wJ/4.jpg",
+       "Wallpaper2":"https://i.ibb.co/HBmQ6Gk/3.jpg"
+
+  }
+],
+
+    "Boca Life Avatar IMG": [
+    {
+       "Wallpaper":"https://i.ibb.co/kXncM9H/1.jpg",
+       "Wallpaper2":"https://i.ibb.co/0Jx9XpX/2.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/wNsDDWX/3.jpg",
+       "Wallpaper2": "https://i.ibb.co/sqcTJby/4.jpg"
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/wBnH5vx/5.jpg",
+       "Wallpaper2":"https://i.ibb.co/ZJ7N5bp/6.jpg"
+
+  },
+  {
+       "Wallpaper": "https://i.ibb.co/z71jDRj/7.jpg",
+       "Wallpaper2":"https://i.ibb.co/kJVfnkk/8.jpg"
+
+  }
+]
+  }
